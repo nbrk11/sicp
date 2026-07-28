@@ -1,0 +1,6 @@
+(define size 2)
+(define pi 3.14159)
+(display (* size 2))
+(newline)
+(display pi)
+(newline)
